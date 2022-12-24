@@ -8,10 +8,15 @@
     color: #f2f3f4
 }
 
+div {
+    color:#AED6F1 
+}
+
 /*font for all text*/
 h1,
 h2,
-p {
+p,
+div {
     font-family:'Courier New', Courier, monospace
 }
 
