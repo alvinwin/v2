@@ -1,0 +1,29 @@
+* {
+    background-color:#2F2F2F
+}
+
+* {
+    color: #f2f3f4
+}
+
+h1,
+h2,
+p {
+    font-family:'Courier New', Courier, monospace
+}
+
+h1 {
+    text-indent: 1%;
+}
+
+h2 {
+    text-indent: 1.5%;
+}
+
+p {
+    text-indent: 3%;
+}
+
+a:visited {
+    color:yellow;
+}
