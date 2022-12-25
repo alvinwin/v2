@@ -35,14 +35,17 @@ h1 {
     text-indent: 1%;
 }
 
-/*indentation for header 2*/
-h2 {
-    /*text-indent: 18%;*/
-}
-
 /*indentation, probably strictly for links on the index page*/
 p {
     text-indent: 3%;
+}
+
+a:link {
+    color:#5DADE2;
+}
+
+a:hover { 
+    color:azure;
 }
 
 /*url color after the user has clicked the link*/
