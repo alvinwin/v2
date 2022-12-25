@@ -20,6 +20,12 @@ div {
     font-family:'Courier New', Courier, monospace
 }
 
+p,
+h2 {
+    margin-left: 18%;
+    margin-right: 18%;
+}
+
 /*indentation for header 1*/
 h1 {
     text-indent: 1%;
@@ -27,7 +33,7 @@ h1 {
 
 /*indentation for header 2*/
 h2 {
-    text-indent: 1.5%;
+    /*text-indent: 18%;*/
 }
 
 /*indentation, probably strictly for links on the index page*/
