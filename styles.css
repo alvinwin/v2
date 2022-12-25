@@ -17,7 +17,11 @@ h1,
 h2,
 p,
 div {
-    font-family:'Courier New', Courier, monospace
+    font-family:'Times New Roman', Times, serif
+}
+
+p {
+    font-size:large;
 }
 
 p,
