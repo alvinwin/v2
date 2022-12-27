@@ -1,6 +1,6 @@
 /*background color for index.html*/
 * {
-    background-color:#2F2F2F
+    background-color:black
 }
 
 /*font color for index.html*/
@@ -43,7 +43,7 @@ p {
 }
 
 a:link {
-    color:#5DADE2;
+    color:azure;
 }
 
 a:hover { 
@@ -52,5 +52,5 @@ a:hover {
 
 /*url color after the user has clicked the link*/
 a:visited {
-    color:yellow;
+    color:#A6ACAF;
 }
