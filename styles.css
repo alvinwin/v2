@@ -20,12 +20,14 @@ div {
     font-family:'Times New Roman', Times, serif
 }
 
-p {
+p,
+ul {
     font-size:larger;
 }
 
 p,
-h2 {
+h2,
+ul {
     margin-left: 18%;
     margin-right: 18%;
 }
